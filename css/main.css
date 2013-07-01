@@ -1,0 +1,46 @@
+html, body {
+	background: #DDE0E5;
+}
+
+
+.margin-20 { margin: 20px; }
+.margin-left-20 { margin-left: 20px; }
+.margin-right-20 { margin-right: 20px;}
+
+
+.listItem {
+	height: 30px;
+	padding-top: 10px;
+}
+
+.selected {
+	background: #D1D3D9;
+}
+
+
+
+#header-text {
+	margin-left: 20px;
+}
+
+#about {
+	padding-top: 5px;
+	background: #4DB542;
+	height: 40px;
+}
+
+#aboutDropDown {
+	background: #4DB542;
+	display: none;
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
+
+#content {
+	margin-top: 30px;
+}
+
+#contentText {
+	width: 100%;
+	height: 500px;
+}
